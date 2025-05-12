@@ -53,24 +53,6 @@ Built with [NestJS](https://nestjs.com/) and TypeScript, it follows clean archit
 
 ---
 
-## 📁 Project Structure
-
-```
-
-src/
-├── auth/              # Auth logic (JWT, roles, guards)
-├── orders/            # Order processing modules
-├── products/          # Product & catalog management
-├── tenants/           # Multi-tenant logic
-├── users/             # Admin, Seller, Buyer roles
-├── common/            # DTOs, pipes, interceptors, guards
-├── config/            # Environment & DB config
-└── main.ts            # Application bootstrap
-
-````
-
----
-
 ## 📦 Getting Started
 
 1. **Clone the repo**
